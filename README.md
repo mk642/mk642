@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api?username=KimMinKi&show_icons=true&theme=tokyonight"/>
  my technology stack
 
 
