@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=KimMinKi&show_icons=true&theme=tokyonight"/>
+![MinKiKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
  my technology stack
 
 <div align=center><h1>📚 STACKS</h1></div> 
