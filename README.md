@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![MinKiKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk642&show_icons=true&theme=sky)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk642&layout=compact)
 
- my technology stack
 
 <div align=center><h1>📚 STACKS</h1></div> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
