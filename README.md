@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div align="center">
-  <img src="https://github.com/mk642/mk642/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MinkiKim%20&fontSize=90)
 ![MinKiKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk642&show_icons=true&theme=sky)</br>
