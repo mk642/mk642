@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minki Kim%20render&fontSize=90)
 ![MinKiKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk642&show_icons=true&theme=sky)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk642&layout=compact)
 
