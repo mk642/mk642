@@ -1,4 +1,4 @@
-### Hi there 👋
+![hello-52_256](https://github.com/mk642/BackEnd_Project/assets/53805997/66e07625-7bde-4e80-b3ab-48bb6bc46420)</br>
 [![Gmail Badge](https://img.shields.io/badge/-mingig014@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mingig014@gmail.com)](mailto:mingig014@gmail.com)</br> 
 ![MinKiKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk642&show_icons=true&theme=sky)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk642&layout=compact)
