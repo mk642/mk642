@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MinKiKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk642&show_icons=true&theme=black)
+![MinKiKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk642&show_icons=true&theme=sky)
 
  my technology stack
 
