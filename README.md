@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hey 👋, [![Gmail Badge](https://img.shields.io/badge/-mingig014@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mingig014@gmail.com)](mailto:mingig014@gmail.com) 
+ [![Gmail Badge](https://img.shields.io/badge/-mingig014@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mingig014@gmail.com)](mailto:mingig014@gmail.com) 
 ![MinKiKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk642&show_icons=true&theme=sky)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk642&layout=compact)
 
