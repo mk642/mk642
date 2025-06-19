@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/Ruby-F80000?style=for-the-badge&logo=Ruby&logoColor=white">
- <img src="https://img.shields.io/badge/Ruby on Rails-DD0031?style=for-the-badge&logo=Ruby on Rails&logoColor=white">
+ <img src="https://img.shields.io/badge/RubyonRails-DD0031?style=for-the-badge&logo=RubyonRails&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-007396?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
