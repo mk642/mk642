@@ -8,7 +8,7 @@
 <div align=center><h1>📚 STACKS</h1></div> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostGre-007396?style=for-the-badge&logo=PostGre&logoColor=white">
+<img src="https://img.shields.io/badge/Postgre-007396?style=for-the-badge&logo=Postgre&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 
